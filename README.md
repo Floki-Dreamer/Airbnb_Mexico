@@ -1,5 +1,4 @@
 # Airbnb_Mexico
-Creación de una tabla en PostgreSQL para almacenar los datos obtenidos de Airbnb. La visualización de las consultas realizadas se presentaran con Power BI
 
 A partir de Octubre del 2024, un inmueble en Ciudad de México registrado en las plataformas digitales de alojamiento como Airbnb sólo podrá ser rentado seis meses al año. Así lo ha aprobado el Congreso capitalino con el propósito de “mitigar” la gentrificación y la “competencia desleal” que estas plataformas representan para los hoteles tradicionales que ofrecen sus servicios al sector turístico, según se detalla en el dictamen.
 
@@ -18,8 +17,9 @@ https://insideairbnb.com/get-the-data/
 
 El tratamiento y analisis para responder algunas de esta interrogantes fue con la herramiento de PotsgreSQL, algunas otras fueron resueltas en DAX dentro de Power BI
 Aqui puedes ver el codigo
-
+https://github.com/Floki-Dreamer/Airbnb_M-xico/blob/main/README.md?plain=1
 
 La visualizacion fue realizada en Power BI 
 Te comparto el enlace
+https://app.powerbi.com/view?r=eyJrIjoiZjliZmEzZTEtMDc1Yi00YWUwLTk3N2EtODgxYmM2OWE2YjcyIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9
 
