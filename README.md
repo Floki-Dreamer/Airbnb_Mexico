@@ -19,7 +19,7 @@ El tratamiento y análisis de los datos se realizaron principalmente con:
 - **DAX en Power BI**, para el análisis interactivo y la construcción de métricas clave.  
 
 El código utilizado en este proceso está disponible en GitHub:  
-[Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Airbnb_M-xico/blob/main/README.md?plain=1).  
+[Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Airbnb_M-xico/blob/main/airbnb_cdmx.sql).  
 
 ### **Visualización del análisis**  
 
