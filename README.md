@@ -1,25 +1,31 @@
-# Airbnb_Mexico
+# **Airbnb en Ciudad de México**  
 
-A partir de Octubre del 2024, un inmueble en Ciudad de México registrado en las plataformas digitales de alojamiento como Airbnb sólo podrá ser rentado seis meses al año. Así lo ha aprobado el Congreso capitalino con el propósito de “mitigar” la gentrificación y la “competencia desleal” que estas plataformas representan para los hoteles tradicionales que ofrecen sus servicios al sector turístico, según se detalla en el dictamen.
+A partir de octubre de 2024, los inmuebles registrados en plataformas digitales de alojamiento, como Airbnb, en la Ciudad de México, solo podrán ser rentados por un máximo de seis meses al año. Esta medida, aprobada por el Congreso de la Ciudad de México, busca mitigar la gentrificación y abordar la "competencia desleal" que estas plataformas representan frente a los hoteles tradicionales enfocados en el turismo, según se detalla en el dictamen legislativo.  
 
-En base a a lo aprobado por el Congreso es relevante conocer lo datos de airbnbn en CDMX.
+Ante esta nueva regulación, resulta relevante analizar el panorama actual de Airbnb en la Ciudad de México. En este breve análisis se abordan las siguientes preguntas clave:  
 
-En este pequeño analisis abordare los siguientes interrogantes
+- ¿Cuántos inmuebles están registrados en Airbnb dentro de la Ciudad de México?  
+- ¿Cuál es la distribución de estos inmuebles por alcaldía?  
+- ¿Cuántos propietarios gestionan estas propiedades?  
+- ¿Qué ingresos genera este modelo de alojamiento?  
+- ¿Cuáles son los costos promedio por noche en estas propiedades?  
 
-- ¿Cuantos airbnb hay en CDMX?
-- ¿Cuantos airbnb hay por Alcadía?
-- ¿Cuanto dueños de estos airbnb hay?
-- ¿Cual es ingreso que obtienen por este esquema de alojamiento?
-- Los costos por estos alojamientos
+### **Fuentes de datos y herramientas utilizadas**  
 
-Se obtuvieron los datos en siguiente sitio
-https://insideairbnb.com/get-the-data/
+Los datos para este análisis fueron obtenidos de [Inside Airbnb](https://insideairbnb.com/get-the-data/), una plataforma que proporciona información detallada sobre la oferta en Airbnb a nivel global.  
 
-El tratamiento y analisis para responder algunas de esta interrogantes fue con la herramiento de PotsgreSQL, algunas otras fueron resueltas en DAX dentro de Power BI
-Aqui puedes ver el codigo
-https://github.com/Floki-Dreamer/Airbnb_M-xico/blob/main/README.md?plain=1
+El tratamiento y análisis de los datos se realizaron principalmente con:  
+- **PostgreSQL**, para la gestión y análisis de bases de datos relacionales.  
+- **DAX en Power BI**, para el análisis interactivo y la construcción de métricas clave.  
 
-La visualizacion fue realizada en Power BI 
-Te comparto el enlace
-https://app.powerbi.com/view?r=eyJrIjoiZjliZmEzZTEtMDc1Yi00YWUwLTk3N2EtODgxYmM2OWE2YjcyIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9
+El código utilizado en este proceso está disponible en GitHub:  
+[Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Airbnb_M-xico/blob/main/README.md?plain=1).  
 
+### **Visualización del análisis**  
+
+La visualización de los resultados se realizó con Power BI. Puedes explorar el dashboard interactivo en el siguiente enlace:  
+[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjliZmEzZTEtMDc1Yi00YWUwLTk3N2EtODgxYmM2OWE2YjcyIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9).  
+
+---
+
+¿Te gustaría añadir algo más o ajustar el enfoque? 😊
