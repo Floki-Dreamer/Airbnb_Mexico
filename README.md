@@ -26,5 +26,7 @@ El código utilizado en este proceso está disponible en GitHub:
 La visualización de los resultados se realizó con Power BI. Puedes explorar el dashboard interactivo en el siguiente enlace:  
 [Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzZjYTQ5MTctMjJlZC00NGYyLTk2Y2QtZGUyYzU4NDUyNDVhIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9).  
 
-
+<img src="Airbnb1.png" alt="Dashboard de Airbnb" width="500"/>
+<img src="Airbnb2.png" alt="Dashboard de Airbnb" width="500"/>
+<img src="Airbnb3.png" alt="Dashboard de Airbnb" width="500"/>
 
